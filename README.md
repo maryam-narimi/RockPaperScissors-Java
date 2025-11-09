@@ -13,8 +13,11 @@ A simple Rock, Paper, Scissors game written in Java, created using NetBeans IDE.
 3. Click the green Run button or press Shift + F6.
 
 ## Project Structure
+
 RockPaperScissors/
+
 │
+
 ├── src/
 
 │   └── main/
