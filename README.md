@@ -27,4 +27,4 @@ Computer chose: paper
 Computer wins!
 
 ## Author
-Created by **Maryam Niermi**
+**Maryam Narimi**
