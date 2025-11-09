@@ -16,9 +16,13 @@ A simple Rock, Paper, Scissors game written in Java, created using NetBeans IDE.
 RockPaperScissors/
 │
 ├── src/
+
 │   └── main/
+
 │       └── Main.java
+
 │
+
 └── README.md
 
 ## Example Output
